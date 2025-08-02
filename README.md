@@ -13,7 +13,7 @@ This project contains two beginner-friendly Python programs:
 - Dynamic user input
 - Supports arithmetic operations: `+`, `-`, `*`, `/`
 - Handles invalid operations and division by zero
-- Lightweight and beginner-friendly
+
 
 ---
 
